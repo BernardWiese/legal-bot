@@ -1,0 +1,4 @@
+- BM25 search over chapters, parts and section titles
+- How to handle conversation history
+- Structured output for explain section
+- Add section references in context provided
